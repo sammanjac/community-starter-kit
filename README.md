@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a starter probot app where it will help the users to go through different steps of the gitflow.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1. Automated pipline
+2. Gitflow automation
 
 ## Getting started
 
